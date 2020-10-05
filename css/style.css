@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.box1{
+    float: left;
+    width: 50%;
+    text-align: center;
+    background-color: aqua;
+    height: 100vh;
+}
+.box1 img{ 
+    padding-top: 220px;
+}
+.box2{
+    float: left;
+    width: 50%;
+     text-align: center; 
+     background-color: blue;
+     height: 100vh;
+     padding-top: 220px;
+}
+.box2 h1 {
+    font-size: 45px;
+    font-family: fantasy;
+    color: crimson;
+}
+.box2 input {
+    padding: 5px 15px;
+    font-size: 25px;
+    border-radius: 15px;
+    border:none;
+    margin: 3px;
+
+}
+.box2 button {
+    padding: 5px 15px;
+    color: white;
+    background-color: steelblue;
+    margin-top: 3px;
+    border: none;
+    font-size: 15px;
+    font-family: 'Sansita Swashed', cursive;
+}
